@@ -4,11 +4,17 @@
 
 To Remember and Forget: Memory and Machine 
 
-What happens in our brain when we remember and when we forget? How is our sense of memory transforming with computational technology in daily life? How do we rely on the mobile devices to assist memory and store in permanent storage?  By asking these questions, we begin to understand various factors that are mediating sense of presence and memory. 
+What happens in our brain when we remember and when we forget something? How is our sense of memory transforming living with computational technology in daily life? How do we rely on the mobile devices to assist our short term memory and to create permanent storage? 
 
-Neuroscientist Joseph LeDoux explains plasticity of synapses in our brain is the core mechanism that enable human sense of self. Thus we know that we exist by remembering things past and anticipating things to come. Revolutionary developments occurred simultaneously in computer science and neuroscience since the 1960s. Neuroscience had less apparent effect in the realm of art and culture, while popular recognition of Cybernetics and Artificial Intelligence continues to inspire notions of thinking and feeling machines. 
+Memory has always been interest to artists and scientists. Writers such as Marcel Proust and Walter Benjamin explored memory mechanism through narrative and metaphor. Freud, originally trained as a neurologist, developed foundation for modern psychoanalysis.
 
-This class will explore the connection between neural plasticity and computation in social and aesthetic context. Each class will begin with a lecture on memory and technical inventions through history of disciplines and work of art and literature. Lecturer will also demonstrate related technology such as logic gate level electronics to help understand fundamental of digital computation to varieties of clinical and archival software. In class activity will include group discussion and student presentation. Over seven weeks period, students will create two interactive art work in response to the topics of human memory and technical objects, first one will be a system to help them remember and the second one will be a device to help them forget. Students are expected to bring in their skills in programming and physical computing to realize their projects. 
+Neuroplasticity means brain's ability to change and adapat as a result of experience. Placticity in synapses is the core mechanism that enable human memory. We become conscious by remembering things past and anticipating things to come.
+
+Revolutionary developments in computer science and neuroscience around the 1960s occurred simultaneously. Recognition of Cybernetics and Artificial Intelligence, and sometimes its misunderstanding, continues to inspire the notions of thinking and feeling machines in popular culture. Progress in neuroscience and understanding of human memory had less apparent effect in the realm of art and culture until recently.   
+
+This class is an artistic exploration of the connection between neural plasticity and computability. Each class will begin with a lecture on memory and technical inventions, as well as history of disciplines and work of art and literature. The class will explore low level and high level approach to plasticity and computability through reading and demonstration. In class activity will include group discussion and student presentation. 
+
+Over seven weeks period, students will create two prototypes accompanied by short writing about human memory and technology, first one will be a system to help them remember and the second one will be a device to help them forget. Students are expected to bring in their skills in programming and physical computing to realize their projects. 
 
 <a href="http://taeyoonchoi.com">Taeyoon Choi </a>
 
@@ -16,23 +22,35 @@ This class will explore the connection between neural plasticity and computation
 
 **Week 1 Memory and storage**
 
-How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated? This lecture sets ground for 7 weeks of investigation on the nature of memory and computing machine. 
+What is memory? How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated? 
+
+Reading
 
 * Sigmund Freud, Notes upon the Mystic Writing Pad (1925) 
+
+Reference 
+
 * Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
 * Jacques Derrida, Freud and the scene of writing, Writing and Difference (Routledge, 2001)
-*  Ursula Marx, Gudrun Schwarz, Michael Schwarz, and Erdmut Wizisla, translated by Esther Leslie, Walter Benjamin's Archive (Verso, 2007)
+*  Esther Leslie, trans., Walter Benjamin's Archive (Verso, 2007)
 *  Walter Benjamin, Illuniations (New york: Schocken books, 1969)
 *  Walter Benjamin, Berlin Childhood around 1900 (Belknap Press, 2006)
 
-Student output: Read Freud's 'Notes upon the Mystic Writing Pad' as well as Jacques Derrida's response in Archive Fever. Write 500 words or longer reflection on the class blog. 
+Student output: Create a unique archiving system for their participation in the class. 
   
 **Week 2 Plasticity and computability**
 
 What are the various ways of understanding memory in psychological, neurological and artistic approach? What is synapse and how does it work?  What is working memory and why is attention so important? What is computability in machine? What is the fundamental logic of computation? The concept of plasticity and computability will be explored throughout the semester in following lectures and different approaches.  
 
+Reading
+
+Selected chapters from 
+
 * Joseph LeDoux, Synaptic self: How are brains become who we are (London: Penguin Books, 2002)
 * Eric R. Kandel, In search of memory (W.W. Norton, 2006)  
+
+Reference 
+
 * Wendy Hui-kyung Chun, Programmed vision: Software and memory (The MIT Press,2011)
 
 Student output: Students will present their ideas for a system to help them remember an event or specific memory. The project may take any form as long as it has an aspect of computation and participation. 
@@ -50,18 +68,16 @@ Student output: Students will present their first assignment. Their project may 
  
 **Week 4 Taste and smell**
 
-For Proust, eating madeleine with tea brought back certain memory. In our daily activities related to taste, such as cooking, smelling and eating, we are reminded of past memory as we create new memory. What's happening now that the artificial flavoring industry have mastered engineering of taste as instigator of memory? Artists such as Conflict Kitchen, Rirkrit Tiravanija, Jonathan Cohrs use taste as the medium for social and aesthetic confrontation.
+For Proust, taste of madeleine with tea brought back flood of memory from childhood and powerful joy of remembrance through innvoluntary memory. In our daily activities related to taste, such as cooking, smelling and eating, we are constantly reminded of past as we create new memory. What's happening now that the artificial flavoring industry have mastered engineering of taste as instigator of memory? Artists such as Conflict Kitchen, Rirkrit Tiravanija, Jonathan Cohrs use taste as the medium for social and aesthetic confrontation.
 
 * Marcel Proust, In search of lost time, Swann's way (1913): Excerpts provided 
 * Walter Benjamin, Berlin Childhood around 1900 (Belknap Press, 2006) 
-* Julie Berger Hochstrasser, Still Life and Trade in the Dutch Golden Age (Yale University Press, 2007)
-
 
 Student output: The class will have a picnic and students will tell a story about the memories related to the food they prepared. 
 
 **Week 5 Presence, objects and space**
 
-What makes human presence different from animal or object? How do we feel comfort or fear in presence of another person? What kind of change happens in our consciousness in crowd and in solitude? How are human memory affected by the presence of inanimate objects and space? We will look at few memorabilia and monument as examples.  
+What makes human memory different from that of animal or object? How do we feel comfort or fear in presence and memory of another person? How are human memory altered by the presence of inanimate objects and space? We will look at few memorabilia and monument as examples.  
 
 * Jonathan Crary, 24/7 Late capitalism and the ends of sleep (Verso,2014)
 * Alva Noë, Varieties of presence (Harvard University Press, 2012)   
@@ -78,7 +94,7 @@ How did the history of few disciplines; Cognitive Science, Human Compute Interac
 * Norbert Wiener, The Human Use of Human Beings, (Da Capo Press, March 22, 1988)
 * Bernard Stiegler, Technics and Time, 3: Cinematic Time and the Question of Malaise (Standford University Press, 2010)
 
-Student output:  Students will break into groups of three and help each other brainstorm possible use scenario for their device to help forget.  
+Student output: Students will create memory circuits on breadboard during the class. 
 
 **Week 7 Technical objects** 
 
