@@ -1,0 +1,9 @@
+**Lecture 1**
+
+Slides <a href="https://speakerdeck.com/tchoi8/to-remember-and-forget-lecture-1"> Here</a>
+
+Notes <a href="https://hackpad.com/To-remember-and-forget-Lecture-1-KBg6fVW8qmq"> Here</a>
+
+Audio availiable upon request
+
+ 
