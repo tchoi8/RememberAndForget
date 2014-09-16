@@ -7,3 +7,11 @@ Notes <a href="https://hackpad.com/To-remember-and-forget-Lecture-1-KBg6fVW8qmq"
 Audio availiable upon request
 
  
+**Lecture 2**
+
+Slides <a href="https://speakerdeck.com/tchoi8/to-remember-and-forget-lecture-2"> Here</a>
+
+Notes <a href="https://hackpad.com/To-remember-and-forget-lecture-2-uUx5Yc2UZVi"> Here</a>
+
+Audio availiable upon request
+
