@@ -15,3 +15,11 @@ Notes <a href="https://hackpad.com/To-remember-and-forget-lecture-2-uUx5Yc2UZVi"
 
 Audio availiable upon request
 
+
+**Lecture 3**
+
+Slides [here](https://speakerdeck.com/tchoi8/to-remember-and-forget-lecture-3)  
+
+Notes [here](https://hackpad.com/To-remember-and-forget-lecture-3-ehUZEyBOgyx#:h=Hippocampus-and-Almond)
+
+Audio availiable upon request
